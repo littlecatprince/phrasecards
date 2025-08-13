@@ -1,0 +1,15 @@
+{
+  "name": "Phrase Cards",
+  "short_name": "PhraseCards",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#333333",
+  "icons": [
+    {
+      "src": "/icons/ios-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
